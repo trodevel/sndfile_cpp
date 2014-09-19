@@ -1,0 +1,3 @@
+Very thin C++ wrapper for libsndfile library.
+
+Some functions are stored under divirgent (non-GPL) lincese.

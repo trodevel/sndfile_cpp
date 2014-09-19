@@ -1,0 +1,4 @@
+
+* required libraries
+
+sudo apt-get install libsndfile1 libsndfile1-dev
