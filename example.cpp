@@ -34,7 +34,7 @@
 ** ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-// $Id: example.cpp 1039 2014-09-19 23:36:33Z serge $
+// $Id: example.cpp 1054 2014-09-22 18:09:35Z serge $
 
 #include "sndfile.hpp"
 
@@ -60,7 +60,7 @@ void get_info( const char *filename )
     if( file.is_num_frames_unknown() )
         printf( "Frames      : unknown\n" );
     else
-        printf( "Frames      : %lu\n", file.get_num_frames() );
+        printf( "Frames      : %llu\n", file.get_num_frames() );
 
     printf( "Channels    : %d\n", file.get_channels() );
     printf( "Format      : 0x%08X\n", file.get_format() );
