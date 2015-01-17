@@ -34,7 +34,7 @@
 ** ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-// $Id: example.cpp 1054 2014-09-22 18:09:35Z serge $
+// $Revision: 1404 $ $Date:: 2015-01-16 #$ $Author: serge $
 
 #include "sndfile.hpp"
 

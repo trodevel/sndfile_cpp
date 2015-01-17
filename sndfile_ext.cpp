@@ -39,7 +39,7 @@ due to different license.
 ** ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-// $Id: sndfile_ext.cpp 1040 2014-09-19 23:38:00Z serge $
+// $Revision: 1404 $ $Date:: 2015-01-16 #$ $Author: serge $
 
 #include "sndfile.hpp"      // self
 
